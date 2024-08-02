@@ -1,77 +1,86 @@
 {
     "skills": [
         {
-            "id":1,
-            "src":"./img/product-chain-1.png",
-            "title":"Front-End",
-            "description":"HTML,CSS,JavaScript,Bootstrap"
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Front - End",
+            "description": "ReactJs, HTML, CSS, JavaScript, Bootstrap"
         },
         {
-            "id":2,
-            "src":"./img/tag-1.png",
-            "title":"Back-End",
-            "description":"Java,Python,DSA,PHP,SQL"
+            "id": 2,
+            "src": "./img/tech.jpg",
+            "title": "Management - Organizational",
+            "description": "Risk Management, Resource Management, Leadership, Public Speaking, Public Speaking, Time Management"
         },
         {
-            "id":3,
-            "src":"./img/feather-pen-2.png",
-            "title":"Programming , Data Bases & Frameworks",
-            "description":"C,C++,Python,Java,MongoDb,MySql,ReactJS,NodeJS,ExpressJS"
+            "id": 3,
+            "src": "./img/feather-pen-2.png",
+            "title": "Programming - Coding",
+            "description": "C, C++, Python, Java,"
         },
         {
-            "id":4,
-            "src":"./img/feather-pen-1.png",
-            "title":"Other",
-            "description":"Communication,Problem Solving,OS,DBMS,GIT,CN"
+            "id": 4,
+            "src": "./img/tag-1.png",
+            "title": "Back - End",
+            "description": "ExpressJs, MongoDB, SQL, Python"
+        },
+        {
+            "id": 5,
+            "src": "./img/feather-pen-1.png",
+            "title": "Others",
+            "description": "Communication,Problem Solving,OS,DBMS,GIT,CN"
         }
     ],
     "portfolio": [
         {
-            "id":1,
-            "src":"./img/placeholder-image.png",
-            "title":"My Portfolio",
-            "description":"This is my Portfolio that I created using React Js .It shows all My Projects and the skills I have .The elegance of React.js brings dynamism to every section, ensuring fluid navigation through projects, skills, and a seamless contact form  this also contains a direct contact section.",
-            "link":"View In GitHub"
+            "id": 1,
+            "src": "./img/bookstore.jpg",
+            "title": "Online Book Store",
+            "description": "BookStoreApp is a next-generation digital bookstore designed to provide a comprehensive and personalized book shopping experience. As an all-in-one platform for discovering, reviewing, and saving books, it combines user-generated insights with cutting-edge technology to create an engaging and intuitive book-buying journey.",
+            "link": "View In GitHub",
+            "href": "https://github.com/Yogendra213/bookStoreApp"
         },
         {
-            "id":2,
-            "src":"./img/placeholder-image-1.png",
-            "title":"Task Manager",
-            "description":"A task manager writes, organizes, and rearranges tasks more efficiently. Theis task manager will allow the user to add a task, mark the task as complete, and delete the task. ",
-            "link":"View In GitHub"
+            "id": 2,
+            "src": "./img/task-manager.png",
+            "title": "Task Manager",
+            "description": "A task manager writes, organizes, and rearranges tasks more efficiently. This task manager will allow the user to add a task, mark the task as complete, and delete the task. ",
+            "link": "View In GitHub",
+            "href": "https://github.com/Yogendra213/Task-Manager"
         },
         {
-            "id":3,
-            "src":"./img/placeholder-image-2.png",
-            "title":"Easy Rentn",
-            "description":"This Expense tracker  let users add expenses, sort them into relevant categories, and provide relevant insights, such as the percentage of income spent on various categories (such as food, education, entertainment, bills, and travel).",
-            "link":"View In GitHub"
+            "id": 3,
+            "src": "./img/portfolio.png",
+            "title": "My Portfolio",
+            "description": "This is my Portfolio that I created using React Js .It shows all My Projects and the skills I have .The elegance of React.js brings dynamism to every section, ensuring fluid navigation through projects, skills, and a seamless contact form  this also contains a direct contact section.",
+            "link": "View In GitHub",
+            "href": "https://github.com/Yogendra213/bookStoreApp"
         }
     ],
     "testimonial": [
         {
-            "id":1,
-            "count":"5",
-            "src":"./img/gdsc.png",
-            "description":"Took  a part in Organising and Hosting All sessions in GDSC",
-            "author_name":"GOOGLE DSC",
-            "author_designation":"Public Speaker & Core Member"
+            "id": 1,
+            "count": "5",
+            "src": "./img/gdsc.png",
+            "description": "Was responsible for organizing and hosting all sessions for GDSC",
+            "author_name": "GOOGLE DSC",
+            "author_designation": "Lead Speaker & Core Contributor"
         },
         {
-            "id":2,
-            "count":"5",
-            "src":"./img/m2.jpg",
-            "description":"Taken the main lead in this club  from writing reports of college events to  writing anchoring scripts.",
-            "author_name":"MEDIA CLUB",
-            "author_designation":"Lead"
+            "id": 2,
+            "count": "5",
+            "src": "./img/m2.jpg",
+            "description": "I have taken a leading role in this club, from writing reports on college events to crafting anchoring scripts.",
+            "author_name": "MEDIA CLUB",
+            "author_designation": "Lead"
         },
         {
-            "id":3,
-            "count":"5",
-            "src":"./img/gr.jpg",
-            "description":"Have Done Many campings and Green Events",
-            "author_name":"Green Club",
-            "author_designation":"Event Manager/Organiser"
+            "id": 3,
+            "count": "5",
+            "src": "./img/gr.jpg",
+            "description": "Organized numerous camping trips and green events.",
+            "author_name": "Green Club",
+            "author_designation": "Event Manager/Organizer"
         }
     ]
 }

@@ -5,14 +5,14 @@ export default function ContactMe() {
             <p className="sub--title">Get In Touch</p>
             <h2> Contact Me</h2>
             <p className="text-lg">
-                Yogendraguthikonda020103@gmail.com
+                yogendraguthikonda020103@gmail.com
                 </p>
            </div>
            <form className="contact--form--container">
             <div className="container">
                 <label htmlFor="first-name" className="contact--lable">
                     <span className="text-md">First Name</span>
-                    <input 
+                    <input
                     type="text" 
                     className="contact--input text--md" 
                     name="first-name" 
